@@ -1,2 +1,1 @@
 # RNApi-Test
-only example
